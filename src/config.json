@@ -1,7 +1,8 @@
 {
-    "Steem_account":"your_steem_Useername",
+    "Steem_account": "your_steem_username",
     "Sender_Email": "yourmail@gmail.com",
     "Password": "yourPassword",
+    "Service": "gmail",
     "Notification_Email": [
         "abc@abc.com",
         "bcd@bcd.com"
