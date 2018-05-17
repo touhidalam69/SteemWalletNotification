@@ -1,0 +1,8 @@
+{
+    "Sender_Email": "yourmail@gmail.com",
+    "Password": "yourPassword",
+    "Notification_Email": [
+        "abc@abc.com",
+        "bcd@bcd.com"
+    ]
+}
