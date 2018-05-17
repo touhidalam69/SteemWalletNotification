@@ -1,0 +1,32 @@
+{
+  "name": "steemwalletnotification",
+  "version": "1.0.0",
+  "description": "Notify user via Email when SBD or Steem is received or Send on and by user's Steem Wallet",
+  "main": "app.js",
+  "scripts": {
+    "test": "console.log('hello steemwallet');"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/touhidalam69/SteemWalletNotification.git"
+  },
+  "keywords": [
+    "SBD",
+    "STEEM",
+    "WALLET",
+    "STEEMIT",
+    "TRANSACTION",
+    "NOTIFICATION",
+    "EMAIL"
+  ],
+  "author": "Touhid Alam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/touhidalam69/SteemWalletNotification/issues"
+  },
+  "homepage": "https://github.com/touhidalam69/SteemWalletNotification#readme",
+  "dependencies": {
+    "nodemailer": "^4.6.4",
+    "steem": "^0.7.1"
+  }
+}
