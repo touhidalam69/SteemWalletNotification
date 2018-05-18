@@ -3,8 +3,5 @@
     "Sender_Email": "yourmail@gmail.com",
     "Password": "yourPassword",
     "Service": "gmail",
-    "Notification_Email": [
-        "abc@abc.com",
-        "bcd@bcd.com"
-    ]
+    "Notification_Email":"abc@abc.com"
 }
